@@ -33,17 +33,7 @@ public class _01_Length {
 		System.out.println("String \""+"string"+"\" is " + "string".length()+ " chars long");
 		// length앞의 String의 길이를 바로 잼
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-
+		System.out.println("GITHUB");
 	}
 
 }
